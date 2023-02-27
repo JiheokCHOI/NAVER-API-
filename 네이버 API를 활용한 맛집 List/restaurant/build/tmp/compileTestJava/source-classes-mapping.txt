@@ -1,0 +1,8 @@
+com/example/restaurant/wishlist/repository/WishListRepositoryTest.java
+ com.example.restaurant.wishlist.repository.WishListRepositoryTest
+com/example/restaurant/naver/NaverClientTest.java
+ com.example.restaurant.naver.NaverClientTest
+com/example/restaurant/RestaurantApplicationTests.java
+ com.example.restaurant.RestaurantApplicationTests
+com/example/restaurant/wishlist/service/WishListServiceTest.java
+ com.example.restaurant.wishlist.service.WishListServiceTest
